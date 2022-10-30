@@ -15,3 +15,8 @@
 2. **CommandLine.sh**
 
     This is an executables bash shell script file contains the script to answer to the command line question.
+    
+    
+## This is the link of the notebook on github:
+
+https://nbviewer.org/github/anntonio99/ADM_HW2/blob/main/main.ipynb
